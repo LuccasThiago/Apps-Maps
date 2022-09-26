@@ -82,4 +82,4 @@ GitHub
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito por Matheus Maia Alvarez👋🏽 [Entre em contato!](https://br.linkedin.com/in/matheus-maia-alvarez-)
+Feito por Luccas Thiago Campos Rezende👋🏽 [Entre em contato!](linkedin.com/in/luccas-thiago-164632246)
